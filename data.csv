@@ -1,5 +1,5 @@
 Title,Address,Latitude,Longitude,Found Address,Match Quality,Source
 Piazza San Marco,"30100 Venezia VE",45.434238,12.338606,"San Marco",Exact,US Census
-Piazza del Plebiscitoe,Piazza del Plebiscito 80132 Napoli NA,40.836361,14.248626,"Napoli",Exact,US Census
+Piazza del Plebiscitoe,"Piazza del Plebiscito 80132 Napoli NA",40.836361,14.248626,"Napoli",Exact,US Census
 University of Hartford,"200 Bloomfield Ave, West Hartford CT 06117",41.794655,-72.71764,"200 BLOOMFIELD AVE, WEST HARTFORD, CT, 06117",Exact,US Census
 40.836361,14.248626
