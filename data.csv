@@ -1,5 +1,5 @@
 Title,Address,Latitude,Longitude,Found Address,Match Quality,Source
 Piazza San Marco,"30100 Venezia VE",45.434238,12.338606,"San Marco",Exact,US Census
 Piazza del Plebiscito,"Piazza del Plebiscito 80132 Napoli NA",40.836361,14.248626,"Napoli",Exact,US Census
-Campidoglio,"Piazza del Campidoglio 00186 Roma RM",41.893503, 12.482834,"Roma",Exact,US Census
+Campidoglio,"Piazza del Campidoglio 00186 Roma RM",41.893503,12.482834,"Roma",Exact,US Census
 40.836361,14.248626
